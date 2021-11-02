@@ -13,23 +13,3 @@
     @include('components.button', ['text' => 'Mon deuxieme bouton'])
 </body>
 </html>
-
-<div class="card__content">
-    <h1 class="card__title-wrapper">
-        <span class="card__title">Title of the card</span>
-    </h1>
-    <p class="card__description">Lorem ipsum dolor...</p>
-    <p class="card__description card__description--small">
-        Lorem ipsum dolor...
-    </p>
-</div>
-
-<div class="card__content">
-    <h1 class="card__title-wrapper">
-        <span class="card__title">Title of the card</span>
-    </h1>
-    <p class="card__description">Lorem ipsum dolor...</p>
-    <p class="card__description card__description--small">
-        Lorem ipsum dolor...
-    </p>
-</div>
